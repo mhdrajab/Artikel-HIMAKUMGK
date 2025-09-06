@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; margin: 0; background-color: #f0f2f5; }
+header { background-color: #000080; color: white; padding: 20px; text-align: center; }
+header a { color: white; text-decoration: none; }
+main { max-width: 800px; margin: 20px auto; padding: 20px; background-color: #FFD700; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.artikel-preview { border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 15px; }
+.artikel-preview:last-child { border-bottom: none; }
+.artikel-preview h3 a { color: #FFD700; text-decoration: none; }
+.btn-baca { display: inline-block; margin-top: 10px; background-color: #00509e; color: white; padding: 8px 12px; border-radius: 5px; text-decoration: none; }
+.artikel-penuh small { color: #666; display: block; margin-bottom: 20px; }
+.isi-artikel { line-height: 1.6; }
